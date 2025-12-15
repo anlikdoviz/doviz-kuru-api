@@ -1,2 +1,3 @@
 # doviz-kuru-api
-Canlı döviz ve altın verileri için açık kaynak referans
+Canlı döviz ve altın verileri:
+https://anlikdoviz.co
